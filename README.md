@@ -35,8 +35,8 @@ Busco constantemente aprender novas ferramentas e aplicar boas práticas no dese
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuri&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yurigx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurigx&layout=compact&theme=tokyonight&hide=php,javascript,c,cpp,ruby,go&langs_count=6&hide_border=true"/>
 </p>
 
 ---
@@ -44,7 +44,7 @@ Busco constantemente aprender novas ferramentas e aplicar boas práticas no dese
 ## 📈 Atividade Recentes
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuri&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yurigx&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -52,14 +52,15 @@ Busco constantemente aprender novas ferramentas e aplicar boas práticas no dese
 ## 🐍 Snake Animation
 
 <p align="center">
-  <img src="https://github.com/yuri/yuri/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/yurigx/yurigx/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
 
 ## 🌎 Onde me encontrar
 - 💼 [LinkedIn](https://linkedin.com/in/yuri-josé-26253b301)  
-- 🐙 [GitHub](https://github.com/yuri)
+- 🐙 [GitHub](https://github.com/yurigx)
 
 ---
 
+✨ *“O aprendizado é um processo contínuo. Quanto mais eu aprendo, mais percebo o quanto ainda posso crescer.”*
