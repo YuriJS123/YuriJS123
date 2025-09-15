@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Yuri José!
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FICR**  
-💻 Desenvolvedor **Full Stack em formação**  
+💻 Desenvolvedor Full Stack  
 📍 Recife - Pernambuco, Brasil  
 
 ---
