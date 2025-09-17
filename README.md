@@ -23,7 +23,6 @@
 
 
 
-
 ---
 
 ## 📊 Estatísticas do GitHub
@@ -40,7 +39,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Yuri%20José-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/yuri-josé-26253b301)](https://linkedin.com/in/yuri-josé-26253b301)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YuriJS123)
-[![Gmail](https://img.shields.io/badge/-yurijf12345@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yurijf12345@gmail.com)
+
 
 ---
 
