@@ -52,7 +52,7 @@
 ---
 ✨ *“O aprendizado é um processo contínuo. Quanto mais eu aprendo, mais percebo o quanto ainda posso crescer.”*
 <p align="center">
-<img width="600" height="940" alt="Gemini_Generated_Image_3jmkqi3jmkqi3jmk" src="https://github.com/user-attachments/assets/1509ad05-5830-45f9-b801-6c723660e3da" />
+<img width="600" height="940" alt="![gif-github]" src="https://github.com/user-attachments/assets/f52ebf71-ca98-4b54-b9d7-1c5c21f48917" />
 
 
 </p>
