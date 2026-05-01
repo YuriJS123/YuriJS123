@@ -55,7 +55,7 @@
 ---
 ✨ *“O aprendizado é um processo contínuo. Quanto mais eu aprendo, mais percebo o quanto ainda posso crescer.”*
 <p align="center">
-<img width="600" height="940" alt="![gif-github]" src="https://github.com/user-attachments/assets/f52ebf71-ca98-4b54-b9d7-1c5c21f48917" />
+<img width="600" height="600" alt="![gif-github]" src="https://github.com/user-attachments/assets/f52ebf71-ca98-4b54-b9d7-1c5c21f48917" />
 
 
 </p>
